@@ -10,7 +10,7 @@ Skills: HTML5/ CSS/ JavaScript/ SASS/ Wordpress/ Divi/ Photoshop/ Git/ Boostrap
 
 ● ⌨ I'm currently learning React
 
-● 📗 I'm currently learning Portuguese
+● 📗 I'm currently learning English
 
 ● 📃 I'm currently getting the diploma in web developer
 
