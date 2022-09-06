@@ -4,11 +4,15 @@ I am Pablo Jiménez, a web developer specialized in front end passionate about t
 
 Skills: HTML5/ CSS/ JavaScript/ SASS/ Wordpress/ Divi/ Photoshop/ Git/ Boostrap/ Jquery/ Figma/ Elementor
 
-● 💻 I currently only do freelance
+● 👨‍🏫 I'm currently a web development and design teacher
 
-● 🖌 I'm currently learning UX / UI Design
+● 💻 I'm currently do freelance
+
+● 🖌 I'm currently learning UI Design
 
 ● 📗 I'm currently learning English
+
+● 💻 I'm currently learning Javascript modern
 
 ● 📃 I'm currently getting the diploma in web developer
 
