@@ -6,9 +6,9 @@ Skills: HTML5/ CSS/ JavaScript/ SASS/ Wordpress/ Divi/ Photoshop/ Git/ Boostrap/
 
 ● 👨‍🏫 I'm currently a web development and design teacher
 
-● 💻 I'm currently do freelance
+● 🖌 I'm currently a UI/UX designer
 
-● 🖌 I'm currently learning UI Design
+● 💻 I'm currently do freelance
 
 ● 📗 I'm currently learning English
 
