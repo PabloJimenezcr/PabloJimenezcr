@@ -2,7 +2,7 @@ Hello 👋
 
 I am Pablo Jiménez, a web developer specialized in front end passionate about the web and UX / UI Designer.
 
-Skills: HTML5/ CSS/ JavaScript/ SASS/ Wordpress/ Divi/ Photoshop/ Git/ Boostrap/ Jquery/ Figma/ Elementor/ PHP/ Ilustrador
+Skills: HTML5/ CSS/ JavaScript/ SASS/ Wordpress/ Divi/ Photoshop/ Git/ Boostrap/ Jquery/ Figma/ Elementor/ PHP/ Ilustrador/ LESS
 
 ● 👨‍🏫 I'm currently a web development and design teacher
 
