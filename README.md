@@ -7,13 +7,6 @@ I am Pablo Jiménez, a web developer specialized in front end passionate about t
 
 ● 🖌 I'm currently a UI/UX designer
 
-● 💻 I'm currently do freelance
-
-● 📗 I'm currently learning English
-
-● 💻 I'm currently learning Javascript modern
-
-● 📃 I'm currently getting the diploma in web developer
 
 
 
